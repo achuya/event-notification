@@ -59,14 +59,14 @@ terraform destroy
 
 ## ファイル構成
 
-event-notification/
-├── lambda/
-│   └── index.py          → Slack通知のLambda関数
-└── infra/
-├── main.tf            → AWSリソースの定義
-├── variables.tf       → 変数の定義
-├── outputs.tf         → 出力値の定義
-└── terraform.tfvars   → 変数の値（gitignore済み）
+event-notification/¥n
+├── lambda/¥n
+│   └── index.py          → Slack通知のLambda関数¥n
+└── infra/¥n
+├── main.tf            → AWSリソースの定義¥n
+├── variables.tf       → 変数の定義¥n
+├── outputs.tf         → 出力値の定義¥n
+└── terraform.tfvars   → 変数の値（gitignore済み）¥n
 
 ## 注意事項
 
