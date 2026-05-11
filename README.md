@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Event Notification
 
 EventBridge + Step Functions + Lambda を使ったECSデプロイ通知システム
@@ -126,6 +125,3 @@ terraform destroy
 
 > ✅ 課題1と違いNAT Gatewayがないので課金は最小限です。
 > ただし使い終わったら必ずdestroyしましょう！
-=======
-# event-notification
->>>>>>> 94b6a429f5198cf6d00b0ad1c8c59d2920b57aa4
