@@ -1,0 +1,8 @@
+**/terraform.tfvars
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.backup
+.DS_Store
+**/.DS_Store
+infra/lambda.zip
+infra/response.json
